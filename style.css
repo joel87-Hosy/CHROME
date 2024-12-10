@@ -1,0 +1,23 @@
+.avertissement{
+    text-decoration: underline;
+
+}
+.paragrapheColorie{
+    color: blue;
+}
+.paragraphewebmaster,span{
+    font-weight: bolder;
+}
+h2{
+    text-align: center;
+}
+.rectangle{
+    background-color: yellow;
+    border: 2px solid black;
+    border-radius: 10px; 
+    padding: 20px;
+    
+}
+div{
+    text-align: center;
+}
